@@ -2,6 +2,7 @@
 <h2><b>Introduction </b></h2>
 Animation Programming is a project well named to explain itself as it introduced us to implementing animations in C++. <br>
 The people who took part of the project are Lenny Rabinne and Mateo Erbisti, two students from Isart Digital. <br>
+It started on December 9th, 2022 and finished on January 2nd, 2023.
 It has been made on Visual Studio 2019 and is expected to work in <B>Release x86 mode</B>. <br>
 The engine was given to us and the source code that we've written can be found  in /AnimationProgramming/AnimationProgramming.
 
